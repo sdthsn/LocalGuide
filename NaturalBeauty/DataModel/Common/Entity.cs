@@ -5,18 +5,17 @@
     using MongoDB.Bson.Serialization.Attributes;
     using System.ComponentModel.DataAnnotations;
 
-    public abstract class Entity<TIdentifier>
+    public abstract class Entity<TEntityId>
     {
 
         protected Entity()
         {
         }
 
-
         [BsonRepresentation(BsonType.ObjectId)]
         [Key]
         [BsonElement("id")]
-        public TIdentifier Id { get; set; }
+        public virtual TEntityId Id { get; set; }
         [BsonElement("createdOn")]
         public DateTime CreatedOn { get; set; }
         [BsonElement("updatedOn")]
