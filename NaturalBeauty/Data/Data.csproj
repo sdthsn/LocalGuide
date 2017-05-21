@@ -55,7 +55,6 @@
   <ItemGroup>
     <Compile Include="Interfaces\AbstractInterface\IRepository.cs" />
     <Compile Include="Interfaces\ISpotsRepository.cs" />
-    <Compile Include="MongoSetting\DataContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AbstractRepository\Repository.cs" />
     <Compile Include="Repositories\SpotsRepository.cs" />
