@@ -1,0 +1,16 @@
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\Data.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\Data.pdb
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\DataModel.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Bson.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\DataModel.pdb
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Bson.xml
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.xml
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\obj\Debug\Data.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\obj\Debug\Data.pdb
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\Shahadat\Documents\LocalGuide\NaturalBeauty\Data\bin\Debug\MongoDB.Driver.GridFS.xml
