@@ -8,23 +8,26 @@
     <script src="../Scripts/postScript.js"></script>
 </head>
 <body>
-    <div>
-        <table id="input" style="border:none; width:50%">
-            <tr>
-                <td>Spot Name : <input id="name" type="text" /></td>
-            </tr>
-            <tr>
-                <td>Short Summery of Spot : <input id="shortSummary" type="text" /></td>
-            </tr>
-            <tr>
-                <td>Spot's Description : <input id="description" type="text" textMode="MultiLine" height="50" /></td>
-            </tr>
-            <tr>
-                <td>Upload Image: <input id="loadImage" type="file" required /></td>
-            </tr>
-            <tr><td><input id="upload" type="button" value="Submit now" /> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="reset" value="Reset" /></td></tr>
-        </table>
-        <span id="result"></span>
+    <div id="input">
+        <form>
+            <table style="border:none; width:50%">
+                <tr>
+                    <td>Spot Name : <input id="name" type="text" /></td>
+                </tr>
+                <tr>
+                    <td>Short Summery of Spot : <input id="shortSummary" type="text" /></td>
+                </tr>
+                <tr>
+                    <td>Spot's Description : <input id="description" type="text" textMode="MultiLine" height="50" /></td>
+                </tr>
+                <tr>
+                    <td>Upload Image: <input id="loadImage" type="file" required /></td>
+                </tr>
+                <tr><td><input type="reset" value="Reset" /></td></tr>
+            </table>
+        </form>
+        <input id="upload" type="button" value="Submit now" />
     </div>
+    <div><span id="result"></span></div>
 </body>
 </html>
